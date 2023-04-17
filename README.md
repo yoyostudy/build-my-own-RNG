@@ -4,6 +4,9 @@ This the project for 2022Fall CMPT789.
 Topic:
 Simulate Linux RNG
 
+Team members:
+Hugh Song, Yoyo Wang, Keye Zhou
+
 Instruction on running the code:
 0. pip3 install keyboard
 1. sudo su
