@@ -10,13 +10,21 @@ Hugh Song, Yoyo Wang, Keye Zhou
 # Instruction on running the code:
 
 0. pip3 install keyboard
+
 1. sudo su
+
 2. python3 Linux_RNG.py
+
 3. Hint:   "Let us initialize input pool --------"
+           
            "please stop if entropy counter > thread"
+   
    Action: Continuesly typing every button except the ENTER button
+
 4. Hint:   "Entropy Count is Enough, you can press ENTER to stop"
+   
    Action: Type ENTER button
+
 5. Remark: If raised ERROR immediately after running the code, please use different python version or operating system.
 
 # Structures:
