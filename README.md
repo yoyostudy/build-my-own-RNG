@@ -4,11 +4,6 @@ This the project for 2022Fall CMPT789.
 Topic:
 Simulate Linux RNG
 
-Team breakdown:
-Hugh : Structure | Input Pool, Output Pool
-Yoyo : Collector, Mixing Function
-Keye ：Extraction Function
-
 Instruction on running the code:
 0. pip3 install keyboard
 1. sudo su
