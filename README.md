@@ -15,13 +15,16 @@ Hugh Song, Yoyo Wang, Keye Zhou
 
 2. python3 Linux_RNG.py
 
-3. Hint:   "Let us initialize input pool --------"
+3. Hint:  
+           > "Let us initialize input pool --------"
            
-           "please stop if entropy counter > thread"
+           > "please stop if entropy counter > thread"
    
    Action: Continuesly typing every button except the ENTER button
 
-4. Hint:   "Entropy Count is Enough, you can press ENTER to stop"
+4. Hint:   
+
+           > "Entropy Count is Enough, you can press ENTER to stop"
    
    Action: Type ENTER button
 
