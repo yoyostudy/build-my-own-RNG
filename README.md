@@ -3,7 +3,6 @@ This the project for 2022Fall CMPT789.
 
 Basically, it is the reproduction of the paper _The Linux Pseudorandom Number Generator Revisited_
 
-
 Topic:
 Simulate Linux RNG
 
